@@ -5,13 +5,13 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- owl carousel css -->
-    <link rel="stylesheet" href="{{\Illuminate\Support\Facades\URL::asset('./assets/css/owl.carousel.min.css')}}">
+    <link rel="stylesheet" href="{{\Illuminate\Support\Facades\URL::asset('assets/css/owl.carousel.min.css')}}">
     <!-- font awesome icons -->
-    <link rel="stylesheet" href="{{\Illuminate\Support\Facades\URL::asset('./assets/css/font-awesome.css')}}">
+    <link rel="stylesheet" href="{{\Illuminate\Support\Facades\URL::asset('assets/css/font-awesome.css')}}">
     <!-- bootstrap css -->
-    <link rel="stylesheet" href="{{\Illuminate\Support\Facades\URL::asset('./assets/css/bootstrap.min.css')}}">
+    <link rel="stylesheet" href="{{\Illuminate\Support\Facades\URL::asset('assets/css/bootstrap.min.css')}}">
     <!-- main css -->
-    <link rel="stylesheet" href="{{\Illuminate\Support\Facades\URL::asset('./assets/css/style.css')}}">
+    <link rel="stylesheet" href="{{\Illuminate\Support\Facades\URL::asset('assets/css/style.css')}}">
 </head>
 <body>
 
