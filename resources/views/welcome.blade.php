@@ -113,7 +113,7 @@
                                 <p class="card-text">
                                     Sudah lebih dari 10 tahun pendiri PT. Brilliant Jaya Pondasi berpengalaman di bidang spesialisasi pondasi dalam, sehingga dalam perjalanannya menjadikan PT. Brilliant Jaya Pondasi dapat bekerja profesional. PT. Brilliant Jaya Pondasi mempunyai mesin yang mampu melaksanakan pengeboran dengan ukuran 60 cm – 120 cm dengan kedalaman hingga 56 m
                                 </p>
-                                <a href="" class="btn btn-1">Detail</a>
+                                <a href="https://wa.link/6i8qx1" class="btn btn-1">Detail</a>
                             </div>
                         </div>
                     </div>
@@ -133,7 +133,7 @@
                                     Bangunan perumahan, jembatan, menara, pabrik,dan pondasi pondasi yang
                                     Lainnya
                                 </p>
-                                <a href="" class="btn btn-1">Detail</a>
+                                <a href="https://wa.link/6i8qx1" class="btn btn-1">Detail</a>
                             </div>
                         </div>
                     </div>
@@ -152,7 +152,7 @@
                                     Mesin hspd mampu memancang untuk ukuran tiang pancang ;
                                     20x20,25x25,30x30,40x40 dan 45x45 serta tiang segi tiga 28x28x28, 32x32x32.
                                 </p>
-                                <a href="" class="btn btn-1">Detail</a>
+                                <a href="https://wa.link/6i8qx1" class="btn btn-1">Detail</a>
                             </div>
                         </div>
                     </div>
