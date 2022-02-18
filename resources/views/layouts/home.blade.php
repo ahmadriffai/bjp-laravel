@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="zxx">
 <head>
-    <title>PT. Berliant Jaya Pondasi</title>
+    <title>PT. Brilliant Jaya Pondasi</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- owl carousel css -->
