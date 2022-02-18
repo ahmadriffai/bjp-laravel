@@ -213,4 +213,32 @@
         </div>
     </div>
     <!-- section 4 end -->
+
+    <!-- galery start -->
+    <section class="gallery bg-white">
+        <div class="container-lg">
+            <div class="row justify-content-center">
+                <div class="col-lg-8">
+                    <div class="section-title">
+                        <h2 class="text-center">Mitra Kami</h2>
+                    </div>
+                </div>
+            </div>
+            <div class="card border-0 shadow">
+                <div class="card-body">
+                    <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 gy-4 mt-4">
+                        @for($i = 1 ; $i <= 10; $i++)
+                            <div class="col">
+                                <div class="gallery-img">
+                                    <img src="{{ asset('assets/img/mitra'. $i .'.jpeg') }}" class="gallery-item" alt="galery">
+                                </div>
+                            </div>
+                        @endfor
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- galery end -->
+
 @endsection
