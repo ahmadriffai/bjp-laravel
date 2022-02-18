@@ -48,7 +48,7 @@
                     <div class="section2-item">
                         <div class="row">
                             <div class="col-lg-8">
-                                <p class="mt-sm-5">Pendiri pt. Brilliant jaya pondasi ( bapak marto susanto) sudah berpengalaman lebih dari 10 tahun dalam spesialisasi pondasi bore pile dan pondasi pancang. Sehingga dapat mempekerjakan operator dan tenaga ahli yang sudah dapat diandalkan untuk bekerja dengan penuh ketelitian dan kualitas pekerjaan terbaik untuk menghasilkan pondasi yang kokoh dan kuat. Begitu juga kami selalu menjungjung tinggi keselamatan kerja dan ketepatan waktu..</p>
+                                <p class="mt-sm-5">Pendiri PT. Brilliant Jaya Pondasi sudah berpengalaman lebih dari 10 tahun dalam spesialisasi pondasi bore pile dan pondasi pancang. Sehingga dapat mempekerjakan operator dan tenaga ahli yang sudah dapat diandalkan untuk bekerja dengan penuh ketelitian dan kualitas pekerjaan terbaik untuk menghasilkan pondasi yang kokoh dan kuat. Begitu juga kami selalu menjungjung tinggi keselamatan kerja dan ketepatan waktu..</p>
                             </div>
                             <div class="col-lg-4 ms-auto order-first">
                                 <h3>Keunggulan Kompetitif</h3>
@@ -61,7 +61,7 @@
                     <div class="section2-item">
                         <div class="row">
                             <div class="col-lg-8">
-                                <p class="mt-sm-5">Dengan semakin berkembangnya metode kerja konstruksi pondasi dalam di indonesia, kami pt. Brilliant jaya pondasi selalu memperbaharui kemampuan alat kerja kami dengan teknologi terbaru dari pt sany perkasa indonesia untuk mendukung kerja kami. </p>
+                                <p class="mt-sm-5">Dengan semakin berkembangnya metode kerja konstruksi pondasi dalam di indonesia, kami PT. Brilliant Jaya Pondasi selalu memperbaharui kemampuan alat kerja kami dengan teknologi terbaru dari PT. Sany Perkasa indonesia untuk mendukung kerja kami. </p>
                             </div>
                             <div class="col-lg-4 ms-auto order-first">
                                 <h3>Peralatan Baru</h3>
@@ -74,7 +74,7 @@
                     <div class="section2-item">
                         <div class="row">
                             <div class="col-lg-8">
-                                <p class="mt-sm-5">PT. Brilliant jaya pondasi selalu mengutamakan integritas dan komitmen dalam menjalankan pelayanan terbaiknya terhadap konsumen, sehingga sampai saat ini PT. Brilliant Jaya Pondasi eksis dan dipercaya di tengah persaingan pasar yang sangat ketat</p>
+                                <p class="mt-sm-5">PT. Brilliant Jaya Pondasi selalu mengutamakan integritas dan komitmen dalam menjalankan pelayanan terbaiknya terhadap konsumen, sehingga sampai saat ini PT. Brilliant Jaya Pondasi eksis dan dipercaya di tengah persaingan pasar yang sangat ketat</p>
                             </div>
                             <div class="col-lg-4 ms-auto order-first">
                                 <h3>Pelayanan Maksimal</h3>
@@ -111,7 +111,7 @@
                             <div class="card-body">
                                 <h3 class="text-uppercase">Jasa Bore Pile Metode Hidrolik</h3>
                                 <p class="card-text">
-                                    Sudah lebih dari 10 tahun pendiri pt. Brilliant jaya pondasi berpengalaman di bidang spesialisasi pondasi dalam, sehingga dalam perjalanannya menjadikan PT. Brilliant Jaya Pondasi dapat bekerja profesional. PT. Brilliant Jaya Pondasi mempunyai mesin yang mampu melaksanakan pengeboran dengan ukuran 60 cm – 120 cm dengan kedalaman hingga 56 m
+                                    Sudah lebih dari 10 tahun pendiri PT. Brilliant Jaya Pondasi berpengalaman di bidang spesialisasi pondasi dalam, sehingga dalam perjalanannya menjadikan PT. Brilliant Jaya Pondasi dapat bekerja profesional. PT. Brilliant Jaya Pondasi mempunyai mesin yang mampu melaksanakan pengeboran dengan ukuran 60 cm – 120 cm dengan kedalaman hingga 56 m
                                 </p>
                                 <a href="" class="btn btn-1">Detail</a>
                             </div>
@@ -128,7 +128,7 @@
                                     Metode wash boring bore pile PT. Brilliant Jaya Pondasi sangat cocok untuk
                                     Diameter sekala kecil dan menengah, penerapan teknologi bore pile wash
                                     Boring dapat digunakan di berbagai daerah sulit maupun terpencil,
-                                    Sehingga mesin bore pile pt. Brilliant jaya pondasi mempunyai keunggulan
+                                    Sehingga mesin bore pile PT. Brilliant Jaya Pondasi mempunyai keunggulan
                                     Yang dapat mengerjakan proyek proyek dengan akses minim seperti
                                     Bangunan perumahan, jembatan, menara, pabrik,dan pondasi pondasi yang
                                     Lainnya

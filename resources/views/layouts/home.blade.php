@@ -54,8 +54,8 @@
                     <h3>Hubungi Kami</h3>
                     <ul>
                         <li>Jl.H.Aning No.80 Kecamatan Cikupa Tangerang-Banten</li>
-                        <li>085155380996</li>
-                        <li>0840929098098</li>
+                        <li>0821 3666 9958</li>
+                        <li>0812 906 5701</li>
                     </ul>
                 </div>
             </div>
