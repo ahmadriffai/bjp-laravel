@@ -38,7 +38,7 @@
                 </div>
             </div>
             <div class="section3-item">
-                <div class="row">
+                <div class="row gy-4">
                     <div class="col-lg-6">
                         <img src="{{asset('assets/img/banner-3.jpg')}}" class="card-img-top" alt="...">
                     </div>
