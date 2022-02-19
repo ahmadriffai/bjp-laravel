@@ -19,6 +19,10 @@ Route::get('/', function () {
 Route::get("profile", function (){
     return view("profile");
 });
+Route::get("contact", function (){
+    return view("contact");
+});
+
 
 Route::get("home/gallery", function (){
     $data = [

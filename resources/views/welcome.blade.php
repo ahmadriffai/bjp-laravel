@@ -162,58 +162,6 @@
     </section>
     <!-- section 3 end -->
 
-    <!-- section 4 start -->
-    <div class="section section4 section-padding">
-        <div class="container">
-            <div class="row justify-content-center">
-                <div class="col-lg-8">
-                    <div class="section-title">
-                        <h2 class="text-center">Tahap Pengerjaan Pondasi</h2>
-                    </div>
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-lg-3 col-md-6">
-                    <div class="section4-item line-right">
-                        <div class="step">1</div>
-                        <h3>Penentuan Titik</h3>
-                        <p>
-                            Penentuan titik adalah proses awal sebelum melakukan pengeboran dilaksanakan pengukuran pada area yang akan menjadi lokasi pekerjaan pembuatan tiang bor.
-                        </p>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-md-6">
-                    <div class="section4-item line-right">
-                        <div class="step">2</div>
-                        <h3>Pabrikan Besi</h3>
-                        <p>
-                            Mempersiapkan lokasi yang cukup luas sebagai tempat untuk proses perakitan besi tulangan maupun pengelasan. Jika panjang besi lebih dari 12m maka memungkinkan akan di bagi menjadi 2 section
-                        </p>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-md-6">
-                    <div class="section4-item line-right">
-                        <div class="step">3</div>
-                        <h3>Temporary Casing</h3>
-                        <p>
-                            Dilakukan pemasangan casing agar mencegah terjadinya longsor pada proses pengeboran. Panjang casing tergantung dari panjangnya tanah lunak yang ada/ perkiraan terjadi kelongsoran.
-                        </p>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-md-6">
-                    <div class="section4-item line-light">
-                        <div class="step">4</div>
-                        <h3>Pengeboran Lubang Bor</h3>
-                        <p>
-                            Setelah mempersiapkan titik yang akan dibor. Mesin bergerak menuju titik kemudian proses pengeboran dimulai sampai kedalaman yang direncanakan
-                        </p>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- section 4 end -->
-
     <!-- galery start -->
     <section class="gallery bg-white">
         <div class="container-lg">

@@ -55,62 +55,88 @@
     </section>
     <!-- section 3 end -->
 
-    <!-- section 2 start -->
-    <div class="section2 section-padding">
+    
+    <!-- section 4 start -->
+    <div class="section section4 section-padding">
         <div class="container">
             <div class="row justify-content-center">
                 <div class="col-lg-8">
                     <div class="section-title">
-                        <h2 class="text-center">Tim Kami</h2>
+                        <h2 class="text-center">Tahap Pengerjaan Pondasi</h2>
                     </div>
                 </div>
             </div>
             <div class="row">
-                <div class="owl-carousel tim-carousel">
-                    <div class="section2-item">
-                        <div class="card border-0" style="width: 18rem;">
-                            <img src="..." class="card-img-top" alt="...">
-                            <div class="card-body">
-                                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                            </div>
-                        </div>
+                <div class="col-lg-3 col-md-6">
+                    <div class="section4-item line-right">
+                        <div class="step">1</div>
+                        <img src="{{asset('assets/img/banner-3.jpg')}}" alt="" class="img-fluid rounded m-2">
+
+                        <h3>Penentuan Titik</h3>
+                        <p>
+                            Penentuan titik adalah proses awal sebelum melakukan pengeboran dilaksanakan pengukuran pada area yang akan menjadi lokasi pekerjaan pembuatan tiang bor.
+                        </p>
                     </div>
-                    <div class="section2-item">
-                        <div class="card border-0" style="width: 18rem;">
-                            <img src="..." class="card-img-top" alt="...">
-                            <div class="card-body">
-                                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                            </div>
-                        </div>
+                </div>
+                <div class="col-lg-3 col-md-6">
+                    <div class="section4-item line-right">
+                        <div class="step">2</div>
+                        <img src="{{asset('assets/img/banner-3.jpg')}}" alt="" class="img-fluid rounded m-2">
+
+                        <h3>Pabrikan Besi</h3>
+                        <p>
+                            Mempersiapkan lokasi yang cukup luas sebagai tempat untuk proses perakitan besi tulangan maupun pengelasan. Jika panjang besi lebih dari 12m maka memungkinkan akan di bagi menjadi 2 section
+                        </p>
                     </div>
-                    <div class="section2-item">
-                        <div class="card border-0" style="width: 18rem;">
-                            <img src="..." class="card-img-top" alt="...">
-                            <div class="card-body">
-                                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                            </div>
-                        </div>
+                </div>
+                <div class="col-lg-3 col-md-6">
+                    <div class="section4-item line-right">
+                        <div class="step">3</div>
+                        <img src="{{asset('assets/img/banner-3.jpg')}}" alt="" class="img-fluid rounded m-2">
+
+                        <h3>Temporary Casing</h3>
+                        <p>
+                            Dilakukan pemasangan casing agar mencegah terjadinya longsor pada proses pengeboran. Panjang casing tergantung dari panjangnya tanah lunak yang ada/ perkiraan terjadi kelongsoran.
+                        </p>
                     </div>
-                    <div class="section2-item">
-                        <div class="card border-0" style="width: 18rem;">
-                            <img src="..." class="card-img-top" alt="...">
-                            <div class="card-body">
-                                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                            </div>
-                        </div>
+                </div>
+                <div class="col-lg-3 col-md-6">
+                    <div class="section4-item line-light">
+                        <div class="step">4</div>
+                        <img src="{{asset('assets/img/banner-3.jpg')}}" alt="" class="img-fluid rounded m-2">
+
+                        <h3>Pengeboran Lubang Bor</h3>
+                        <p>
+                            Setelah mempersiapkan titik yang akan dibor. Mesin bergerak menuju titik kemudian proses pengeboran dimulai sampai kedalaman yang direncanakan
+                        </p>
                     </div>
-                    <div class="section2-item">
-                        <div class="card border-0" style="width: 18rem;">
-                            <img src="..." class="card-img-top" alt="...">
-                            <div class="card-body">
-                                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                            </div>
+                </div>
+                <div class="col-lg-3 col-md-6">
+                    <div class="section4-item line-right">
+                        <div class="step">5</div>
+                        <div class="gambar">
+                            <img src="{{asset('assets/img/banner-3.jpg')}}" alt="" class="img-fluid rounded m-2">
                         </div>
+                        <h3>Pengeboran Lubang Bor</h3>
+                        <p>
+                            Setelah mempersiapkan titik yang akan dibor. Mesin bergerak menuju titik kemudian proses pengeboran dimulai sampai kedalaman yang direncanakan
+                        </p>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-6">
+                    <div class="section4-item line-light">
+                        <div class="step">6</div>
+                        <img src="{{asset('assets/img/banner-3.jpg')}}" alt="" class="img-fluid rounded m-2">
+
+                        <h3>Pengeboran Lubang Bor</h3>
+                        <p>
+                            Setelah mempersiapkan titik yang akan dibor. Mesin bergerak menuju titik kemudian proses pengeboran dimulai sampai kedalaman yang direncanakan
+                        </p>
                     </div>
                 </div>
             </div>
         </div>
     </div>
-    <!-- section 2 end -->
+    <!-- section 4 end -->
 
 @endsection

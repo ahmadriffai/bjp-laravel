@@ -36,6 +36,12 @@
                 <li class="nav-item">
                     <a class="nav-link @if(url()->current() == url('/home/gallery')) active @endif" href="{{ url('home/gallery') }}">Galeri</a>
                 </li>
+                <li class="nav-item">
+                    <a class="btn btn-1 @if(url()->current() == url('/contact')) active @endif" href="{{ url('contact') }}">
+                        <i class="fas fa-phone"></i>
+                        Kontak
+                    </a>
+                </li>
 
             </ul>
         </div>
