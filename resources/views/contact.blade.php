@@ -27,7 +27,7 @@
                     </a>
                 </div>
                 <div class="col-md-4">
-                    <a target="_blank" href="https://www.google.com/maps/place/Brilliant+Jaya+Pondasi/@-6.1862423,106.5897126,17z/data=!3m1!4b1!4m5!3m4!1s0x2e69fefd1c26752f:0xbdaeebc41041dc58!8m2!3d-6.1862476!4d106.5919013" class="nav-link">
+                    <a target="_blank" href="mailto:admin@brilliantjayapondasi.com" class="nav-link">
                         <div class="section4-item line-light bg-white shadow-sm">
                             <div class="step">
                                 <i class="fas fa-envelope"></i>
@@ -40,7 +40,7 @@
                     </a>
                 </div>
                 <div class="col-md-4">
-                    <a target="_blank" href="https://www.google.com/maps/place/Brilliant+Jaya+Pondasi/@-6.1862423,106.5897126,17z/data=!3m1!4b1!4m5!3m4!1s0x2e69fefd1c26752f:0xbdaeebc41041dc58!8m2!3d-6.1862476!4d106.5919013" class="nav-link">
+                    <a target="_blank" href="https://wa.link/6i8qx1" class="nav-link">
                         <div class="section4-item line-light bg-white shadow-sm">
                             <div class="step">
                                 <i class="fas fa-phone"></i>

@@ -12,14 +12,15 @@
             </div>
             <div class="carousel-inner">
                 <div class="carousel-item active" data-bs-interval="3000">
-                    <img src="./assets//img/banner-1.jpg" class="d-block w-100" alt="...">
+                    <img src="./assets//img/banner3.png" class="d-block w-100" alt="...">
                 </div>
                 <div class="carousel-item" data-bs-interval="2000">
-                    <img src="./assets/img/banner-2.jpg" class="d-block w-100" alt="...">
+                    <img src="./assets/img/banner4.png" class="d-block w-100" alt="...">
                 </div>
                 <div class="carousel-item">
-                    <img src="./assets/img/banner-3.jpg" class="d-block w-100" alt="...">
+                    <img src="./assets/img/banner1.png" class="d-block w-100" alt="...">
                 </div>
+                
             </div>
             <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleDark" data-bs-slide="prev">
                 <span class="carousel-control-prev-icon" aria-hidden="true"></span>
@@ -48,7 +49,7 @@
                     <div class="section2-item">
                         <div class="row">
                             <div class="col-lg-8">
-                                <p class="mt-sm-5">Pendiri PT. Brilliant Jaya Pondasi sudah berpengalaman lebih dari 10 tahun dalam spesialisasi pondasi bore pile dan pondasi pancang. Sehingga dapat mempekerjakan operator dan tenaga ahli yang sudah dapat diandalkan untuk bekerja dengan penuh ketelitian dan kualitas pekerjaan terbaik untuk menghasilkan pondasi yang kokoh dan kuat. Begitu juga kami selalu menjungjung tinggi keselamatan kerja dan ketepatan waktu..</p>
+                                <p class="mt-sm-5">Pendiri PT. Brilliant Jaya Pondasi sudah berpengalaman lebih dari 10 tahun dalam spesialisasi pondasi bore pile dan pondasi pancang. Sehingga dapat mempekerjakan operator dan tenaga ahli yang sudah dapat diandalkan untuk bekerja dengan penuh ketelitian dan kualitas pekerjaan terbaik untuk menghasilkan pondasi yang kokoh dan kuat. Begitu juga kami selalu menjunjung tinggi keselamatan kerja dan ketepatan waktu.</p>
                             </div>
                             <div class="col-lg-4 ms-auto order-first">
                                 <h3>Keunggulan Kompetitif</h3>
@@ -61,7 +62,7 @@
                     <div class="section2-item">
                         <div class="row">
                             <div class="col-lg-8">
-                                <p class="mt-sm-5">Dengan semakin berkembangnya metode kerja konstruksi pondasi dalam di indonesia, kami PT. Brilliant Jaya Pondasi selalu memperbaharui kemampuan alat kerja kami dengan teknologi terbaru dari PT. Sany Perkasa indonesia untuk mendukung kerja kami. </p>
+                                <p class="mt-sm-5">Dengan semakin berkembangnya metode kerja konstruksi pondasi dalam di indonesia, kami PT. Brilliant Jaya Pondasi selalu memperbaharui kemampuan alat kerja kami dengan teknologi terbaru dari PT. Sany Perkasa Indonesia untuk mendukung kerja kami. </p>
                             </div>
                             <div class="col-lg-4 ms-auto order-first">
                                 <h3>Peralatan Baru</h3>
@@ -74,7 +75,7 @@
                     <div class="section2-item">
                         <div class="row">
                             <div class="col-lg-8">
-                                <p class="mt-sm-5">PT. Brilliant Jaya Pondasi selalu mengutamakan integritas dan komitmen dalam menjalankan pelayanan terbaiknya terhadap konsumen, sehingga sampai saat ini PT. Brilliant Jaya Pondasi eksis dan dipercaya di tengah persaingan pasar yang sangat ketat</p>
+                                <p class="mt-sm-5">PT. Brilliant Jaya Pondasi selalu mengutamakan integritas dan komitmen dalam menjalankan pelayanan terbaiknya terhadap konsumen, sehingga sampai saat ini PT. Brilliant Jaya Pondasi eksis dan dipercaya di tengah persaingan pasar yang sangat ketat.</p>
                             </div>
                             <div class="col-lg-4 ms-auto order-first">
                                 <h3>Pelayanan Maksimal</h3>
@@ -106,7 +107,7 @@
                     <div class="col-lg-4 col-md-6">
                         <div class="card">
                             <div class="card-img">
-                                <img src="./assets/img/banner-1.jpg" class="card-img-top" alt="...">
+                                <img src="./assets/img/service1.png" class="card-img-top" alt="...">
                             </div>
                             <div class="card-body">
                                 <h3 class="text-uppercase">Jasa Bore Pile Metode Hidrolik</h3>
@@ -120,7 +121,7 @@
                     <div class="col-lg-4 col-md-6">
                         <div class="card">
                             <div class="card-img">
-                                <img src="./assets/img/banner-2.jpg" class="card-img-top" alt="...">
+                                <img src="./assets/img/service2.png" class="card-img-top" alt="...">
                             </div>
                             <div class="card-body">
                                 <h3>BORE PILE METODE BASAH ( MINI CRANE)</h3>
@@ -140,7 +141,7 @@
                     <div class="col-lg-4 col-md-6">
                         <div class="card">
                             <div class="card-img">
-                                <img src="./assets/img/banner-3.jpg" class="card-img-top" alt="...">
+                                <img src="./assets/img/service3.png" class="card-img-top" alt="...">
                             </div>
                             <div class="card-body">
                                 <h3> METODE PANCANG HIDROLIK</h3>

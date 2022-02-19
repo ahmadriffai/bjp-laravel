@@ -40,7 +40,7 @@
             <div class="section3-item">
                 <div class="row gy-4">
                     <div class="col-lg-6">
-                        <img src="{{asset('assets/img/banner-3.jpg')}}" class="card-img-top" alt="...">
+                        <img src="{{asset('assets/img/banner-1.jpg')}}" class="card-img-top" alt="...">
                     </div>
                     <div class="col-lg-6">
                         <img src="{{asset('assets/img/banner-2.jpg')}}" class="card-img-top" alt="...">
@@ -70,7 +70,7 @@
                 <div class="col-lg-3 col-md-6">
                     <div class="section4-item line-right">
                         <div class="step">1</div>
-                        <img src="{{asset('assets/img/banner-3.jpg')}}" alt="" class="img-fluid rounded m-2">
+                        <img src="{{asset('assets/img/penentuantitik.png')}}" alt="" class="img-fluid rounded m-2">
 
                         <h3>Penentuan Titik</h3>
                         <p>
@@ -81,7 +81,7 @@
                 <div class="col-lg-3 col-md-6">
                     <div class="section4-item line-right">
                         <div class="step">2</div>
-                        <img src="{{asset('assets/img/banner-3.jpg')}}" alt="" class="img-fluid rounded m-2">
+                        <img src="{{asset('assets/img/fabrikasibesi.png')}}" alt="" class="img-fluid rounded m-2">
 
                         <h3>Pabrikan Besi</h3>
                         <p>
@@ -103,7 +103,7 @@
                 <div class="col-lg-3 col-md-6">
                     <div class="section4-item line-light">
                         <div class="step">4</div>
-                        <img src="{{asset('assets/img/banner-3.jpg')}}" alt="" class="img-fluid rounded m-2">
+                        <img src="{{asset('assets/img/pengeboran.png')}}" alt="" class="img-fluid rounded m-2">
 
                         <h3>Pengeboran Lubang Bor</h3>
                         <p>
@@ -115,22 +115,22 @@
                     <div class="section4-item line-right">
                         <div class="step">5</div>
                         <div class="gambar">
-                            <img src="{{asset('assets/img/banner-3.jpg')}}" alt="" class="img-fluid rounded m-2">
+                            <img src="{{asset('assets/img/handlingbesi.png')}}" alt="" class="img-fluid rounded m-2">
                         </div>
-                        <h3>Pengeboran Lubang Bor</h3>
+                        <h3>Handling Besi</h3>
                         <p>
-                            Setelah mempersiapkan titik yang akan dibor. Mesin bergerak menuju titik kemudian proses pengeboran dimulai sampai kedalaman yang direncanakan
+                            Setalah mencapai kedalaman pengecoran yang direncanakan, selanjutnya dilakukan pemasukan besi menggunakan cran. Apabila panjang besi lebih dari ... akan dilakukan join besi menggunakan las.
                         </p>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6">
                     <div class="section4-item line-light">
                         <div class="step">6</div>
-                        <img src="{{asset('assets/img/banner-3.jpg')}}" alt="" class="img-fluid rounded m-2">
+                        <img src="{{asset('assets/img/pengecoran.png')}}" alt="" class="img-fluid rounded m-2">
 
-                        <h3>Pengeboran Lubang Bor</h3>
+                        <h3>Pengecoran</h3>
                         <p>
-                            Setelah mempersiapkan titik yang akan dibor. Mesin bergerak menuju titik kemudian proses pengeboran dimulai sampai kedalaman yang direncanakan
+                            Pengecoran dilakukan menggunakan tremie agar hasil pengecoran maksimal dan tidak terjadi pengeropodsan pada beton. 
                         </p>
                     </div>
                 </div>
