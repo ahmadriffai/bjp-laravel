@@ -119,7 +119,7 @@
                         </div>
                         <h3>Handling Besi</h3>
                         <p>
-                            Setalah mencapai kedalaman pengecoran yang direncanakan, selanjutnya dilakukan pemasukan besi menggunakan cran. Apabila panjang besi lebih dari ... akan dilakukan join besi menggunakan las.
+                            Setalah mencapai kedalaman pengecoran yang direncanakan, selanjutnya dilakukan pemasukan besi menggunakan cran. Apabila panjang besi lebih dari 12m akan dilakukan join besi menggunakan las.
                         </p>
                     </div>
                 </div>
