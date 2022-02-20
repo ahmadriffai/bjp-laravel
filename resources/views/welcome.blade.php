@@ -20,7 +20,7 @@
                 <div class="carousel-item">
                     <img src="./assets/img/banner1.png" class="d-block w-100" alt="...">
                 </div>
-                
+
             </div>
             <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleDark" data-bs-slide="prev">
                 <span class="carousel-control-prev-icon" aria-hidden="true"></span>
@@ -54,7 +54,7 @@
                             <div class="col-lg-4 ms-auto order-first">
                                 <h3>Keunggulan Kompetitif</h3>
                                 <div class="section2-img">
-                                    <img src="./assets/img/section2-1.png" alt="" width="10px">
+                                    <img src="./assets/img/keunggulankompetitif.jpeg" alt="" width="10px">
                                 </div>
                             </div>
                         </div>
@@ -62,7 +62,7 @@
                     <div class="section2-item">
                         <div class="row">
                             <div class="col-lg-8">
-                                <p class="mt-sm-5">Dengan semakin berkembangnya metode kerja konstruksi pondasi dalam di indonesia, kami PT. Brilliant Jaya Pondasi selalu memperbaharui kemampuan alat kerja kami dengan teknologi terbaru dari PT. Sany Perkasa Indonesia untuk mendukung kerja kami. </p>
+                                <p class="mt-sm-5">Semakin berkembangnya metode kerja konstruksi pondasi dalam di Indonesia, kami PT. Brilliant Jaya Pondasi selalu memperbaharui kemampuan alat kerja kami dengan teknologi terbaru dari PT. Sany Perkasa Indonesia untuk mendukung kerja kami. </p>
                             </div>
                             <div class="col-lg-4 ms-auto order-first">
                                 <h3>Peralatan Baru</h3>
@@ -107,7 +107,7 @@
                     <div class="col-lg-4 col-md-6">
                         <div class="card">
                             <div class="card-img">
-                                <img src="./assets/img/service1.png" class="card-img-top" alt="...">
+                                <img src="./assets/img/service3.png" class="card-img-top" alt="...">
                             </div>
                             <div class="card-body">
                                 <h3 class="text-uppercase">Jasa Bore Pile Metode Hidrolik</h3>
@@ -141,7 +141,7 @@
                     <div class="col-lg-4 col-md-6">
                         <div class="card">
                             <div class="card-img">
-                                <img src="./assets/img/service3.png" class="card-img-top" alt="...">
+                                <img src="./assets/img/service1.png" class="card-img-top" alt="...">
                             </div>
                             <div class="card-body">
                                 <h3> METODE PANCANG HIDROLIK</h3>

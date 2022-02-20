@@ -9,7 +9,7 @@
                 <div class="col-lg-12 text-center">
                     <h3>VISI</h3>
                     <p>
-                        Kami senantiasa berusaha meberikan kontribusi dalam pengembangan dan memberikan kesuksesan bagi mitra kerja kami
+                        Kami senantiasa berusaha memberikan kontribusi dalam pengembangan dan memberikan kesuksesan bagi mitra kerja kami
                     </p>
                 </div>
             </div>
@@ -18,7 +18,7 @@
                     <div class="col-lg-12 text-center">
                         <h3>MISI</h3>
                         <p>
-                            Selalu melayane mitra kerja dengan baik, menjalin kemitraan yang kuat serta memberikan hasil yang maksimak dan berkualitas
+                            Selalu melayani mitra kerja dengan baik, menjalin kemitraan yang kuat serta memberikan hasil yang maksimal dan berkualitas
                         </p>
 
                     </div>
@@ -40,22 +40,22 @@
             <div class="section3-item">
                 <div class="row gy-4">
                     <div class="col-lg-6">
-                        <img src="{{asset('assets/img/banner-1.jpg')}}" class="card-img-top" alt="...">
+                        <img src="{{asset('assets/img/banner3.png')}}" class="card-img-top" alt="...">
                     </div>
                     <div class="col-lg-6">
-                        <img src="{{asset('assets/img/banner-2.jpg')}}" class="card-img-top" alt="...">
+                        <img src="{{asset('assets/img/banner4.png')}}" class="card-img-top" alt="...">
                     </div>
                 </div>
             </div>
             <div class="row">
                 <div class="col-lg-12 p-lg-5 text-center">
-                    PT. Brilliant Jaya Pondasi, di dirikan oleh bapak marto susanto dan resmikan pada 16 september 2020. PT. Brilliant Jaya Pondasi berkomitmen untuk berperan aktif menyumbangkan tenaga dan pikiran berupa pelayanan jasa pelaksanaan konstruksi sebagai rekanan bagi pihak pemerintah maupun swasta. PT Brilliant Jaya Pondasi adalah sebuah perusahaan yang bergerak di bidang konstruksi. Kami didukung oleh tim yang solid yang memiliki pengalaman pekerjaan dibidangnya dan anagement yang sangat baik, serta ditunjang dengan peralatan yang memadai dan moderen. PT. Brilliant Jaya Pondasi lebih terfokus pada pondasi bored pile. Dari mulai pengeboran, fabrikasi besi, pengecoran, dll
+                    PT. Brilliant Jaya Pondasi,diresmikan pada 16 september 2020. PT. Brilliant Jaya Pondasi berkomitmen untuk berperan aktif menyumbangkan tenaga dan pikiran berupa pelayanan jasa pelaksanaan konstruksi sebagai rekanan bagi pihak pemerintah maupun swasta. PT Brilliant Jaya Pondasi adalah sebuah perusahaan yang bergerak di bidang konstruksi. Kami didukung oleh tim yang solid yang memiliki pengalaman pekerjaan dibidangnya dan anagement yang sangat baik, serta ditunjang dengan peralatan yang memadai dan moderen. PT. Brilliant Jaya Pondasi lebih terfokus pada pondasi bored pile. Dari mulai pengeboran, fabrikasi besi, pengecoran, dll
                 </div>
             </div>
     </section>
     <!-- section 3 end -->
 
-    
+
     <!-- section 4 start -->
     <div class="section section4 section-padding">
         <div class="container">
@@ -92,7 +92,7 @@
                 <div class="col-lg-3 col-md-6">
                     <div class="section4-item line-right">
                         <div class="step">3</div>
-                        <img src="{{asset('assets/img/banner-3.jpg')}}" alt="" class="img-fluid rounded m-2">
+                        <img src="{{asset('assets/img/temporarycasing.jpg')}}" alt="" class="img-fluid rounded m-2">
 
                         <h3>Temporary Casing</h3>
                         <p>
@@ -130,10 +130,13 @@
 
                         <h3>Pengecoran</h3>
                         <p>
-                            Pengecoran dilakukan menggunakan tremie agar hasil pengecoran maksimal dan tidak terjadi pengeropodsan pada beton. 
+                            Pengecoran dilakukan menggunakan tremie agar hasil pengecoran maksimal dan tidak terjadi pengeropodsan pada beton.
                         </p>
                     </div>
                 </div>
+            </div>
+            <div class="row">
+                <a class="btn btn-1" href="https://wa.me/08129065701?text=Hallo%2C%20saya%20mau%20bertanya%20mengenai%20PT.%20Brilliant%20Jaya%20Pondasi%20..">Metode Lebih Lengkap</a>
             </div>
         </div>
     </div>

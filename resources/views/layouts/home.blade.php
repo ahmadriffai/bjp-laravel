@@ -4,6 +4,8 @@
     <title>PT. Brilliant Jaya Pondasi</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="icon" type="image/x-icon" href="{{asset('favicon.ico')}}">
+
     <!-- owl carousel css -->
     <link rel="stylesheet" href="{{\Illuminate\Support\Facades\URL::asset('assets/css/owl.carousel.min.css')}}">
     <!-- font awesome icons -->
@@ -59,9 +61,25 @@
                 <div class="footer-col">
                     <h3>Hubungi Kami</h3>
                     <ul>
-                        <li>Jl.H.Aning No.80 Kecamatan Cikupa Tangerang-Banten</li>
-                        <li>0821 3666 9958</li>
-                        <li>0812 906 5701</li>
+                        <li>
+                            <a href="">
+                                <i class="fas fa-map-marker-alt"></i>
+                                Jl.H.Aning No.80 Kecamatan Cikupa Tangerang-Banten
+                            </a>
+                        </li>
+                        <li>
+                            <a href="">
+                                <i class="fas fa-phone"></i>
+                                0821 3666 9958
+                            </a>
+                        </li>
+                        <li>
+                            <a href="">
+                                <i class="fab fa-whatsapp"></i>
+                                0812 906 5701
+                            </a>
+                        </li>
+
                     </ul>
                 </div>
             </div>
@@ -70,7 +88,7 @@
                     <h3>Sosial Media</h3>
                     <ul>
                         <li><a href=""><i class="fab fa-facebook"></i> Facebook</a></li>
-                        <li><a href=""><i class="fab fa-youtube"></i> youtube</a></li>
+                        <li><a href="https://www.youtube.com/channel/UC7lsQyqUgJFv8u_6Kb6_nBQ"><i class="fab fa-youtube"></i> youtube</a></li>
                         <li><a href=""><i class="fab fa-instagram"></i> instagram</a></li>
                         <li><a href=""><i class="fab fa-twitter"></i> twitter</a></li>
                     </ul>
@@ -79,7 +97,7 @@
         </div>
         <div class="row">
             <div class="col-lg-12">
-                <p class="copyright-text">&copy; 2022 , PT. Briliant Jaya Pondasi</p>
+                <p class="copyright-text">&copy; 2022 - PT. Briliant Jaya Pondasi</p>
             </div>
         </div>
     </div>

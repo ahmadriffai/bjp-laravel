@@ -9,6 +9,8 @@
 
     <title>PT. Brilliant Jaya Pondasi </title>
 
+    <link rel="icon" type="image/x-icon" href="{{asset('favicon.ico')}}">
+
     <!-- Scripts -->
     <script src="{{ asset('js/app.js') }}" defer></script>
 
