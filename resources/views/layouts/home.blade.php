@@ -97,7 +97,7 @@
         </div>
         <div class="row">
             <div class="col-lg-12">
-                <p class="copyright-text">&copy; 2022 - PT. Briliant Jaya Pondasi</p>
+                <p class="copyright-text">&copy; 2022 - PT. Brilliant Jaya Pondasi</p>
             </div>
         </div>
     </div>
