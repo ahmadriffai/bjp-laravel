@@ -40,7 +40,7 @@
                     </a>
                 </div>
                 <div class="col-md-4">
-                    <a target="_blank" href="https://wa.link/6i8qx1" class="nav-link">
+                    <a target="_blank" href="https://wa.me/08129065701?text=Hallo%2C%20saya%20mau%20bertanya%20mengenai%20PT.%20Brilliant%20Jaya%20Pondasi%20.." class="nav-link">
                         <div class="section4-item line-light bg-white shadow-sm">
                             <div class="step">
                                 <i class="fas fa-phone"></i>

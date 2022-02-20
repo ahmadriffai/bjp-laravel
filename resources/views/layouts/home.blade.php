@@ -62,19 +62,19 @@
                     <h3>Hubungi Kami</h3>
                     <ul>
                         <li>
-                            <a href="">
+                            <a href="https://www.google.com/maps/place/Brilliant+Jaya+Pondasi/@-6.1862423,106.5897126,17z/data=!3m1!4b1!4m5!3m4!1s0x2e69fefd1c26752f:0xbdaeebc41041dc58!8m2!3d-6.1862476!4d106.5919013">
                                 <i class="fas fa-map-marker-alt"></i>
                                 Jl.H.Aning No.80 Kecamatan Cikupa Tangerang-Banten
                             </a>
                         </li>
                         <li>
-                            <a href="">
+                            <a href="https://wa.link/6i8qx1">
                                 <i class="fas fa-phone"></i>
                                 0821 3666 9958
                             </a>
                         </li>
                         <li>
-                            <a href="">
+                            <a href="https://wa.me/08129065701?text=Hallo%2C%20saya%20mau%20bertanya%20mengenai%20PT.%20Brilliant%20Jaya%20Pondasi%20..">
                                 <i class="fab fa-whatsapp"></i>
                                 0812 906 5701
                             </a>
