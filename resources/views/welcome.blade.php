@@ -15,7 +15,7 @@
                     <img src="./assets//img/banner3.png" class="d-block w-100" alt="...">
                 </div>
                 <div class="carousel-item" data-bs-interval="2000">
-                    <img src="./assets/img/banner4.png" class="d-block w-100" alt="...">
+                    <img src="./assets/img/profile1.png" class="d-block w-100" alt="...">
                 </div>
                 <div class="carousel-item">
                     <img src="./assets/img/banner1.png" class="d-block w-100" alt="...">
@@ -54,7 +54,7 @@
                             <div class="col-lg-4 ms-auto order-first">
                                 <h3>Keunggulan Kompetitif</h3>
                                 <div class="section2-img">
-                                    <img src="./assets/img/keunggulankompetitif.jpeg" alt="" width="10px">
+                                    <img src="./assets/img/fabrikasibesi.png" alt="" width="10px">
                                 </div>
                             </div>
                         </div>
@@ -67,7 +67,7 @@
                             <div class="col-lg-4 ms-auto order-first">
                                 <h3>Peralatan Baru</h3>
                                 <div class="section2-img">
-                                    <img src="./assets/img/banner-1.jpg" alt="" width="10px">
+                                    <img src="./assets/img/peralatanterbaru.png" alt="" width="10px">
                                 </div>
                             </div>
                         </div>
@@ -80,7 +80,7 @@
                             <div class="col-lg-4 ms-auto order-first">
                                 <h3>Pelayanan Maksimal</h3>
                                 <div class="section2-img">
-                                    <img src="./assets/img/banner-2.jpg" alt="" width="10px">
+                                    <img src="./assets/img/pelayanan.png" alt="" width="10px">
                                 </div>
                             </div>
                         </div>
@@ -107,7 +107,7 @@
                     <div class="col-lg-4 col-md-6">
                         <div class="card">
                             <div class="card-img">
-                                <img src="./assets/img/service3.png" class="card-img-top" alt="...">
+                                <img src="./assets/img/service2.png" class="card-img-top" alt="...">
                             </div>
                             <div class="card-body">
                                 <h3 class="text-uppercase">Jasa Bore Pile Metode Hidrolik</h3>
@@ -121,7 +121,7 @@
                     <div class="col-lg-4 col-md-6">
                         <div class="card">
                             <div class="card-img">
-                                <img src="./assets/img/service2.png" class="card-img-top" alt="...">
+                                <img src="./assets/img/service1.png" class="card-img-top" alt="...">
                             </div>
                             <div class="card-body">
                                 <h3>BORE PILE METODE BASAH ( MINI CRANE)</h3>
@@ -141,17 +141,17 @@
                     <div class="col-lg-4 col-md-6">
                         <div class="card">
                             <div class="card-img">
-                                <img src="./assets/img/service1.png" class="card-img-top" alt="...">
+                                <img src="./assets/img/service3.png" class="card-img-top" alt="...">
                             </div>
                             <div class="card-body">
                                 <h3> METODE PANCANG HIDROLIK</h3>
                                 <p class="card-text">
-                                    Metode pancang hspd adalah jenis pancang yang saat ini sangat efisien di
+                                    Metode pancang HSPD adalah jenis pancang yang saat ini sangat efisien di
                                     Proyek. Mesin jenis ini mudah di operasikan dan tidak memiliki kebisingan,
                                     Metode pengerjaan yang cepat dan bersih menjadikan mesin ini cocok
                                     Digunakan di area yang mengharuskan tidak adanya kebisingan suara. Jenis
-                                    Mesin hspd mampu memancang untuk ukuran tiang pancang ;
-                                    20x20,25x25,30x30,40x40 dan 45x45 serta tiang segi tiga 28x28x28, 32x32x32.
+                                    Mesin HSPD mampu memancang untuk ukuran tiang pancang ;
+                                    20x20, 25x25, 30x30, 40x40 dan 45x45 serta tiang segi tiga 28x28x28, 32x32x32.
                                 </p>
                                 <a href="https://wa.link/6i8qx1" class="btn btn-1">Detail</a>
                             </div>

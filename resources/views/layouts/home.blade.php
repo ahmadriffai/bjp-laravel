@@ -54,7 +54,7 @@
 @yield("content")
 
 <!-- footer start -->
-<section class="footer">
+<section class="footer" id="footer">
     <div class="container">
         <div class="row">
             <div class="col-lg-6">
@@ -62,19 +62,19 @@
                     <h3>Hubungi Kami</h3>
                     <ul>
                         <li>
-                            <a href="https://www.google.com/maps/place/Brilliant+Jaya+Pondasi/@-6.1862423,106.5897126,17z/data=!3m1!4b1!4m5!3m4!1s0x2e69fefd1c26752f:0xbdaeebc41041dc58!8m2!3d-6.1862476!4d106.5919013">
+                            <a href="https://www.google.com/maps/place/6%C2%B014'22.0%22S+106%C2%B031'57.9%22E/@-6.2394516,106.5305659,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0x9050ebb5a95b8a68!8m2!3d-6.2394516!4d106.5327546?hl=en">
                                 <i class="fas fa-map-marker-alt"></i>
                                 Jl.H.Aning No.80 Kecamatan Cikupa Tangerang-Banten
                             </a>
                         </li>
                         <li>
                             <a href="https://wa.link/6i8qx1">
-                                <i class="fas fa-phone"></i>
+                                <i class="fab fa-whatsapp"></i>
                                 0821 3666 9958
                             </a>
                         </li>
                         <li>
-                            <a href="https://wa.me/08129065701?text=Hallo%2C%20saya%20mau%20bertanya%20mengenai%20PT.%20Brilliant%20Jaya%20Pondasi%20..">
+                            <a href="https://wa.link/18p54p">
                                 <i class="fab fa-whatsapp"></i>
                                 0812 906 5701
                             </a>
@@ -87,7 +87,7 @@
                 <div class="footer-col">
                     <h3>Sosial Media</h3>
                     <ul>
-                        <li><a href=""><i class="fab fa-facebook"></i> Facebook</a></li>
+                        <li><a href="https://id-id.facebook.com/marto.susanto"><i class="fab fa-facebook"></i> Facebook</a></li>
                         <li><a href="https://www.youtube.com/channel/UC7lsQyqUgJFv8u_6Kb6_nBQ"><i class="fab fa-youtube"></i> youtube</a></li>
                         <li><a href=""><i class="fab fa-instagram"></i> instagram</a></li>
                         <li><a href=""><i class="fab fa-twitter"></i> twitter</a></li>

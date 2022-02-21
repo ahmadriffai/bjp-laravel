@@ -8,7 +8,7 @@
             <div class="row py-5">
                 <div class="col-lg-12 text-center">
                     <h3>VISI</h3>
-                    <p>
+                    <p class="fw-normal" style="font-size: 20px">
                         Kami senantiasa berusaha memberikan kontribusi dalam pengembangan dan memberikan kesuksesan bagi mitra kerja kami
                     </p>
                 </div>
@@ -16,8 +16,8 @@
             <div class="row mt-2">
                 <div class="col-lg-12">
                     <div class="col-lg-12 text-center">
-                        <h3>MISI</h3>
-                        <p>
+                        <h3 class="fw-bold">MISI</h3>
+                        <p class="fw-normal" style="font-size: 20px">
                             Selalu melayani mitra kerja dengan baik, menjalin kemitraan yang kuat serta memberikan hasil yang maksimal dan berkualitas
                         </p>
 
@@ -40,7 +40,7 @@
             <div class="section3-item">
                 <div class="row gy-4">
                     <div class="col-lg-6">
-                        <img src="{{asset('assets/img/banner3.png')}}" class="card-img-top" alt="...">
+                        <img src="{{asset('assets/img/bannerlast.png')}}" class="card-img-top" alt="...">
                     </div>
                     <div class="col-lg-6">
                         <img src="{{asset('assets/img/banner4.png')}}" class="card-img-top" alt="...">
@@ -49,7 +49,7 @@
             </div>
             <div class="row">
                 <div class="col-lg-12 p-lg-5 text-center">
-                    PT. Brilliant Jaya Pondasi,diresmikan pada 16 september 2020. PT. Brilliant Jaya Pondasi berkomitmen untuk berperan aktif menyumbangkan tenaga dan pikiran berupa pelayanan jasa pelaksanaan konstruksi sebagai rekanan bagi pihak pemerintah maupun swasta. PT Brilliant Jaya Pondasi adalah sebuah perusahaan yang bergerak di bidang konstruksi. Kami didukung oleh tim yang solid yang memiliki pengalaman pekerjaan dibidangnya dan anagement yang sangat baik, serta ditunjang dengan peralatan yang memadai dan moderen. PT. Brilliant Jaya Pondasi lebih terfokus pada pondasi bored pile. Dari mulai pengeboran, fabrikasi besi, pengecoran, dll
+                    PT. Brilliant Jaya Pondasi diresmikan pada 16 september 2020 dengan nomor <b>AHU-0167442.AH.01.11.TAHUN 2020</b> , PT. Brilliant Jaya Pondasi berkomitmen untuk berperan aktif menyumbangkan tenaga dan pikiran berupa pelayanan jasa pelaksanaan konstruksi sebagai rekanan bagi pihak pemerintah maupun swasta. PT Brilliant Jaya Pondasi adalah sebuah perusahaan yang bergerak di bidang konstruksi. Kami didukung oleh tim yang solid yang memiliki pengalaman pekerjaan dibidangnya dan management yang sangat baik, serta ditunjang dengan peralatan yang memadai dan moderen. PT. Brilliant Jaya Pondasi lebih terfokus pada pondasi bored pile. Dari mulai pengeboran, fabrikasi besi, pengecoran, dll
                 </div>
             </div>
     </section>
@@ -83,7 +83,7 @@
                         <div class="step">2</div>
                         <img src="{{asset('assets/img/fabrikasibesi.png')}}" alt="" class="img-fluid rounded m-2">
 
-                        <h3>Pabrikan Besi</h3>
+                        <h3>Fabrikasi Besi</h3>
                         <p>
                             Mempersiapkan lokasi yang cukup luas sebagai tempat untuk proses perakitan besi tulangan maupun pengelasan. Jika panjang besi lebih dari 12m maka memungkinkan akan di bagi menjadi 2 section
                         </p>
@@ -92,7 +92,7 @@
                 <div class="col-lg-3 col-md-6">
                     <div class="section4-item line-right">
                         <div class="step">3</div>
-                        <img src="{{asset('assets/img/temporarycasing.jpg')}}" alt="" class="img-fluid rounded m-2">
+                        <img src="{{asset('assets/img/temporarycasing.png')}}" alt="" class="img-fluid rounded m-2">
 
                         <h3>Temporary Casing</h3>
                         <p>
@@ -136,7 +136,7 @@
                 </div>
             </div>
             <div class="row">
-                <a class="btn btn-1" href="https://wa.me/08129065701?text=Hallo%2C%20saya%20mau%20bertanya%20mengenai%20PT.%20Brilliant%20Jaya%20Pondasi%20..">Metode Lebih Lengkap</a>
+                <a class="btn btn-1" href="https://wa.link/18p54p">Metode Lebih Lengkap</a>
             </div>
         </div>
     </div>

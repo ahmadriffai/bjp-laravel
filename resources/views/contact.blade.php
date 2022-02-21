@@ -14,7 +14,7 @@
 
             <div class="row mt-5">
                 <div class="col-md-4">
-                    <a target="_blank" href="https://www.google.com/maps/place/Brilliant+Jaya+Pondasi/@-6.1862423,106.5897126,17z/data=!3m1!4b1!4m5!3m4!1s0x2e69fefd1c26752f:0xbdaeebc41041dc58!8m2!3d-6.1862476!4d106.5919013" class="nav-link">
+                    <a target="_blank" href="https://www.google.com/maps/place/6%C2%B014'22.0%22S+106%C2%B031'57.9%22E/@-6.2394516,106.5305659,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0x9050ebb5a95b8a68!8m2!3d-6.2394516!4d106.5327546?hl=en" class="nav-link">
                         <div class="section4-item line-light bg-white shadow-sm">
                             <div class="step">
                                 <i class="fas fa-map-marker-alt"></i>
@@ -40,15 +40,15 @@
                     </a>
                 </div>
                 <div class="col-md-4">
-                    <a target="_blank" href="https://wa.me/08129065701?text=Hallo%2C%20saya%20mau%20bertanya%20mengenai%20PT.%20Brilliant%20Jaya%20Pondasi%20.." class="nav-link">
+                    <a href="#footer" class="nav-link">
                         <div class="section4-item line-light bg-white shadow-sm">
                             <div class="step">
                                 <i class="fas fa-phone"></i>
                             </div>
                             <h3>Kontak</h3>
                             <p>
-                                Telephone : 0821 3666 9958
-                                WhatsApp  : 0812 906 5701
+                                Telephone or whatsApp:<br>
+                                 0812 906 5701 , 0821 3666 9958
                             </p>
                         </div>
                     </a>

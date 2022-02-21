@@ -406,11 +406,13 @@ Responsive
 }
 
 .visi{
-    background-image: url('./../img/img-profil1.jpg');
+    background-image: url('./../img/bg-visimisi.png');
     height: 80vh;
     background-size: cover;
     color: white;
     position: relative;
+    background-attachment: fixed;
+    background-position: center;
 }
 
 .visi .container{
